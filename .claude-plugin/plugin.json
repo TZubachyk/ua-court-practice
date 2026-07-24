@@ -1,0 +1,29 @@
+{
+  "name": "ua-court-practice",
+  "version": "0.4.0",
+  "description": "Пошук релевантної української судової практики в ЄДРСР з верифікацією повного тексту рішень і генерацією Word-документа з таблицею. Включає суб-агент верифікації для дотягування невалідованих рішень. Skill for finding relevant Ukrainian court practice in ЄДРСР with full-text verification and Word document table generation. Includes verification sub-agent for pulling missed decisions.",
+  "author": {
+    "name": "TZubachyk",
+    "url": "https://github.com/TZubachyk"
+  },
+  "license": "MIT",
+  "skills": [
+    { "name": "єдрср", "path": "skills/єдрср/SKILL.md" },
+    { "name": "єдрср-верифікація", "path": "skills/єдрср-верифікація/SKILL.md" }
+  ],
+  "keywords": [
+    "ukraine",
+    "court",
+    "legal",
+    "law",
+    "yedrsr",
+    "єдрср",
+    "судова-практика",
+    "claude-skill"
+  ],
+  "homepage": "https://github.com/TZubachyk/ua-court-practice",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TZubachyk/ua-court-practice.git"
+  }
+}

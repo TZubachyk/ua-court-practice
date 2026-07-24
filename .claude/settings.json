@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sL*reyestr.court.gov.ua*)",
+      "Bash(curl -sL*clarity-project.info*)",
+      "Bash(curl -sL*court.opendatabot.ua*)",
+      "Bash(curl -sL*supreme.court.gov.ua*)",
+      "Bash(curl -sL*court.gov.ua/userfiles*)",
+      "Bash(python3 *)",
+      "Bash(pdftotext *)",
+      "Bash(node *generate-docx*)",
+      "Bash(npm install*)",
+      "Bash(pip install*)",
+      "Bash(pip3 install*)",
+      "Bash(brew install*)",
+      "Bash(unzip -p *.docx*)",
+      "Bash(rm -f /tmp/rev*)",
+      "Bash(rm -f /tmp/mirror*)",
+      "Bash(rm -f /tmp/clarity*)",
+      "Bash(rm -f /tmp/digest*)",
+      "Bash(node -v*)",
+      "Bash(node -e*)",
+      "Bash(which *)"
+    ]
+  }
+}

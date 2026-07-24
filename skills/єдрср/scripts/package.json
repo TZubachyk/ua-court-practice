@@ -1,0 +1,9 @@
+{
+  "name": "yedrsr-docx-generator",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Word document generator for the /єдрср skill",
+  "dependencies": {
+    "docx": "^9.0.0"
+  }
+}
